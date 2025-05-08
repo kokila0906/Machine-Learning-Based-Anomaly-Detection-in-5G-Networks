@@ -1,0 +1,8 @@
+FlowId,TimeFirstTxPacket,TimeLastTxPacket,TimeFirstRxPacket,TimeLastRxPacket,DelaySum,JitterSum,TxBytes,RxBytes,TxPackets,RxPackets,LostPackets,PacketLossRatio,anomaly
+1,0.1,0.9,0.2,1.0,0.02,0.005,1000,980,10,9,1,0.1,normal
+2,0.2,1.1,0.3,1.2,0.01,0.004,800,800,8,8,0,0.0,normal
+3,0.15,1.0,0.25,1.05,0.03,0.006,950,940,9,8,1,0.11,normal
+4,0.2,1.1,0.3,1.2,0.01,0.004,850,850,8,8,0,0.0,normal
+5,0.1,0.9,0.2,1.0,0.5,0.1,2000,500,10,3,7,0.7,anomaly
+6,0.25,1.2,0.35,1.3,0.01,0.004,870,870,9,9,0,0.0,normal
+7,0.2,1.1,0.3,1.2,0.55,0.09,2100,600,10,2,8,0.8,anomaly

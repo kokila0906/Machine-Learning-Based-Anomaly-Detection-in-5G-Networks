@@ -1,0 +1,1 @@
+FlowId,TimeFirstTxPacket,TimeLastTxPacket,TimeFirstRxPacket,TimeLastRxPacket,DelaySum,JitterSum,TxBytes,RxBytes,TxPackets,RxPackets,LostPackets,PacketLossRatio
